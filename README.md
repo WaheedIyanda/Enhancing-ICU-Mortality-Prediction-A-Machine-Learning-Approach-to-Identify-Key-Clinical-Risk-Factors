@@ -1,0 +1,2 @@
+# Enhancing-ICU-Mortality-Prediction-A-Machine-Learning-Approach-to-Identify-Key-Clinical-Risk-Factors
+This project focuses on developing a machine learning model to predict mortality in Intensive Care Units (ICUs) based on clinical parameters recorded during patient stays. By analyzing large datasets with various clinical variables, the model aims to enhance predictive accuracy beyond traditional scoring systems.  
